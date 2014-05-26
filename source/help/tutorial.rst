@@ -4,9 +4,9 @@ Scrum pe scurt
 .. toctree::
    :maxdepth: 1
 
---------
+---------
 1. Roluri
---------
+---------
 
 **1.1. Echipa:**
 
