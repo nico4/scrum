@@ -34,4 +34,4 @@ Team
 * Cornel Nițu (SM)
 * Claudia Ifrim
 * Dragoș Dumitrescu [90%]
-* Cătălin Ciobanu [20%]
+* Cătălin Dogaru [20%]
