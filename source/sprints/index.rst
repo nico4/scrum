@@ -18,7 +18,4 @@ Sprinturi încheiate
 -------------------
 
 
-.. toctree::
-   :maxdepth: 1
-
-* `CMS Sprint #0 <cms/0.html>`_
+nimic încheiat

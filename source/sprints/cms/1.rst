@@ -7,31 +7,33 @@ CMS Sprint #1
 -----------
 Sprint goal
 -----------
-* LDAP module
-
+* LDAP final developments
+* Newsletter basic functionalities
 
 --------------
 Sprint backlog
 --------------
-* Migration tool (3)
-* Login (5)
-* User admin (10)
+* View ldap users (1.5)
+* Add/Edit/Delete LDAP users (3)
+* Create and edit newsletters (2.5)
+* Add users to newsletter (1.5)
+* country data: ratification status (1)
 
-*Viteza estimată*: 18
+*Viteza estimată*: 9.5
 
 --------
 Perioada
 --------
-* Perdioada sprintului: 2014-06-14 to 2014-06-30
-* Daily scrum: 10:00 - 10:30
-* Dată demo: 2014-06-30 (în sala de ședințe)
+* Perdioada sprintului: 2014-05-27 to 2014-06-02
+* Daily scrum: 10:30 - 11:00
+* Dată demo: 2014-06-02 (în birou)
 
 ------
 Echipa
 ------
 
-* Cristian Romanescu (PO) [75%]
+* Cristian Romanescu (PO) [40%]
 * Cornel Nițu (SM)
-* Claudia Ifrim
-* Dragoș Dumitrescu [90%]
+* Claudia Ifrim [70%]
+* Dragoș Dumitrescu
 * Cătălin Ciobanu [20%]
