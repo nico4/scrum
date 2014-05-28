@@ -12,6 +12,7 @@ Sprinturi curente
    :maxdepth: 1
 
    cms/1.rst
+   reportek/1.rst
 
 -------------------
 Sprinturi încheiate

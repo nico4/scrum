@@ -1,0 +1,40 @@
+Reportek Sprint #1
+******************
+
+.. toctree::
+   :maxdepth: 1
+
+-----------
+Sprint goal
+-----------
+* Închidem sprinturile `#2 <http://taskman.eionet.europa.eu/versions/1070>`_ și `#4 <http://taskman.eionet.europa.eu/versions/1095>`_ din Redmine
+
+--------------
+Sprint backlog
+--------------
+* `#19856 <http://taskman.eionet.europa.eu/issues/19856>`_: Sort order of obligations in envelope (0.5)
+* `#17226 <http://taskman.eionet.europa.eu/issues/17226>`_: Reject bad schema URLs (0.5)
+* `#19092 <http://taskman.eionet.europa.eu/issues/19092>`_: Migrate the administration pages (3)
+* `#19637 <http://taskman.eionet.europa.eu/issues/19637>`_: Email templates for obligations (1.5)
+* `#18891 <http://taskman.eionet.europa.eu/issues/18891>`_: Nil-report (0.5)
+* `#17672 <http://taskman.eionet.europa.eu/issues/17672>`_: Year-relative nil-reporting status (0.5)
+* `#5992 <http://taskman.eionet.europa.eu/issues/5992>`_: Moving workflow from cdrtest to cdr fails (5)
+* `#18887 <http://taskman.eionet.europa.eu/issues/18887>`_: Read only access for specials (4,5)
+
+*Viteza estimată*: 15p
+
+--------
+Perioada
+--------
+* Perdioada sprintului: 2014-05-28 to 2014-06-06
+* Daily scrum: 11:30 - 12:00
+* Dată demo: 2014-06-06, 16:00 (în birou la Cornel)
+
+------
+Echipa
+------
+
+* Miruna Bădescu (PO)
+* Cornel Nițu (SM)
+* Daniel Bărăgan (Rezervă SM)
+* Ștefan Mihăilă
