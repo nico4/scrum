@@ -1,0 +1,47 @@
+CMS Sprint #2
+*************
+
+.. toctree::
+   :maxdepth: 1
+
+-----------
+Sprint goal
+-----------
+* Să-l impresionăm pe Cristi :)
+
+--------------
+Sprint backlog
+--------------
+* Bugfixing (1.5)
+
+ * `#2397 <http://redmine.eaudeweb.ro/issues/2397>`_
+ * `#2393 <http://redmine.eaudeweb.ro/issues/2393>`_
+ * `#2400 <http://redmine.eaudeweb.ro/issues/2400>`_
+ * `#2401 <http://redmine.eaudeweb.ro/issues/2401>`_
+ * `#2405 <http://redmine.eaudeweb.ro/issues/2405>`_
+ * `#2067 <http://redmine.eaudeweb.ro/issues/2067>`_
+
+* Custom template for country profile `#1987 <http://redmine.eaudeweb.ro/issues/1987>`_ (0,5)
+* Add a map on Countries page `#2258 <http://redmine.eaudeweb.ro/issues/2258>`_ (0.5)
+* Create Documents section `#2377 <http://redmine.eaudeweb.ro/issues/2377>`_ (2)
+
+*Viteza estimată*: 5.5
+
+--------
+Perioada
+--------
+* Perdioada sprintului: 2014-06-04 to 2014-06-010
+* Daily scrum: 10:30 - 11:00
+* Dată demo: 2014-06-10 (în birou)
+* Sprint retrospective: 2014-06-10 (în birou)
+* Next sprint planning: 2014-06-10 (în birou)
+
+------
+Echipa
+------
+
+* Cristian Romanescu (PO) [0%]
+* Cornel Nițu (SM)
+* Claudia Ifrim
+* Dragoș Dumitrescu [66%]
+* Cătălin Dogaru [66%]
